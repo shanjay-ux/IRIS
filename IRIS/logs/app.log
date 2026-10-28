@@ -1,0 +1,88 @@
+[2026-08-17 20:23:08,927] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:08,928] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'ProductionConfig'
+[2026-08-17 20:23:08,952] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:08,995] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:08,996] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:08,998] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,064] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,064] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,066] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,115] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,115] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,117] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,164] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,164] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,166] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,208] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,208] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,210] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,329] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,329] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,331] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,427] [INFO] [app in app.py:169] - Prediction success: setosa (100.0%) for IP: 127.0.0.1
+[2026-08-17 20:23:09,434] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,434] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,436] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,511] [INFO] [app in app.py:169] - Prediction success: versicolor (99.64%) for IP: 127.0.0.1
+[2026-08-17 20:23:09,518] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,519] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,520] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,576] [INFO] [app in app.py:169] - Prediction success: virginica (99.72%) for IP: 127.0.0.1
+[2026-08-17 20:23:09,584] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,584] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,586] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,620] [WARNING] [app in app.py:134] - Validation failed for client 127.0.0.1: {'petal_length': 'Missing value for petal_length', 'petal_width': 'Missing value for petal_width'}
+[2026-08-17 20:23:09,627] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,627] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,629] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,665] [WARNING] [app in app.py:134] - Validation failed for client 127.0.0.1: {'sepal_length': 'Must be between 4.0 and 8.0 cm'}
+[2026-08-17 20:23:09,671] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,671] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,673] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:23:09,725] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:23:09,726] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:23:09,728] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,541] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,554] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'ProductionConfig'
+[2026-08-17 20:45:18,578] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,620] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,621] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,624] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,690] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,690] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,691] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,739] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,739] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,741] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,790] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,791] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,792] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,835] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,835] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,837] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,891] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,891] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,892] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:18,976] [INFO] [app in app.py:169] - Prediction success: setosa (100.0%) for IP: 127.0.0.1
+[2026-08-17 20:45:18,983] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:18,983] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:18,985] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:19,036] [INFO] [app in app.py:169] - Prediction success: versicolor (99.04%) for IP: 127.0.0.1
+[2026-08-17 20:45:19,042] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:19,043] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:19,045] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:19,101] [INFO] [app in app.py:169] - Prediction success: virginica (99.79%) for IP: 127.0.0.1
+[2026-08-17 20:45:19,107] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:19,107] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:19,109] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:19,141] [WARNING] [app in app.py:134] - Validation failed for client 127.0.0.1: {'petal_length': 'Missing value for petal_length', 'petal_width': 'Missing value for petal_width'}
+[2026-08-17 20:45:19,147] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:19,148] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:19,149] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:19,185] [WARNING] [app in app.py:134] - Validation failed for client 127.0.0.1: {'sepal_length': 'Must be between 4.0 and 8.0 cm'}
+[2026-08-17 20:45:19,191] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:19,191] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:19,192] [INFO] [app in app.py:60] - Database initialized successfully.
+[2026-08-17 20:45:19,259] [INFO] [app in logger.py:39] - Logger initialized. Active log file: 'C:\Users\HP\Desktop\IRIS\logs\app.log'
+[2026-08-17 20:45:19,259] [INFO] [app in app.py:56] - Starting Iris ML Web App in mode: 'TestingConfig'
+[2026-08-17 20:45:19,262] [INFO] [app in app.py:60] - Database initialized successfully.
